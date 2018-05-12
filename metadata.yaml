@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43923#Le-lion-du-d-sertSc-nes-de-la-vie-indienne-dans-les-prairies
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-10-10'
 gutenberg_type: Text
