@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fiction'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: Le lion du désert -- Une nuit de Mexico -- Une chasse aux abeilles
   -- Le passeur de nuit -- La tour des Hiboux -- La création.
 title: 'Le lion du désert: Scènes de la vie indienne dans les prairies'
